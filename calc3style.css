@@ -1,0 +1,56 @@
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration:none !important;
+}
+
+.inputs {
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+      max-width:150px;
+      }
+
+      .calc {
+margin-left: 30px;
+      }
+
+      .val {
+          font-size:20px;
+          text-align:center;
+          box-sizing: 30px;
+          padding: 2px !important;
+      }
+
+      .titulo{
+          font-size:50px;
+          
+      }
+
+      .imagen{
+          float:left;
+          margin-left: 20px !important;
+          
+      }
+
+      .total {
+        font-size: 60px;
+        width: 100%;
+        margin: auto;
+        text-align: center !important;
+      }
